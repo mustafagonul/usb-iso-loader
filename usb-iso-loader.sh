@@ -26,7 +26,7 @@ print_help () {
   echo
   echo -e "${CYAN}USB Iso Loader${NC}"
   echo
-  echo "Create Syslinux USB"
+  echo "Create Syslinux USB to load iso files"
   echo "Usage: usb-iso-loader.sh -d <DEV> -i <DIR>"
   echo "       usb-iso-loader.sh -h"
   echo
