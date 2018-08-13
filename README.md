@@ -47,11 +47,24 @@ The project aims to create bootable USB loading iso files.
 - **--no-color** Coloring is disabled with this parameter
 - **--help** This parameter is used to dump the help
 
+## Tested Distros
+
+- Arch Linux
+
+## Dependencies
+
+### Arch Linux
+
 ## TODO
 
+- Not working isos
+  - [GParted](https://sourceforge.net/projects/gparted/)
+  - [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/)
+- Support for large iso files
 - UEFI support
 - Grub research
 - Message generalization
 - No direct call to **umount**
 - Test on several distos should be done
+- Dependency analysis necessary
 - Minimum dependency on commands
