@@ -53,3 +53,5 @@ The project aims to create bootable USB loading iso files.
 - Grub research
 - Message generalization
 - No direct call to **umount**
+- Test on several distos should be done
+- Minimum dependency on commands
