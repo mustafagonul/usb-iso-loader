@@ -57,6 +57,7 @@ The project aims to create bootable USB loading iso files.
 
 ## TODO
 
+- Better project name :)
 - Not working isos
   - [GParted](https://sourceforge.net/projects/gparted/)
   - [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/)
