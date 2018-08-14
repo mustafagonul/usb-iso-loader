@@ -58,9 +58,11 @@ The project aims to create bootable USB loading iso files.
 ## TODO
 
 - Better project name :)
+- Working isos
+  - [Arch Linux](https://www.archlinux.org/download/)
 - Not working isos
   - [GParted](https://sourceforge.net/projects/gparted/)
-  - [Debian](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/)
+  - [Debian Iso DVD](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/)
 - Support for large iso files
 - UEFI support
 - Grub research
