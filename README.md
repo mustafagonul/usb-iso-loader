@@ -64,10 +64,12 @@ The project aims to create bootable USB loading iso files.
   - [GParted](https://sourceforge.net/projects/gparted/)
   - [Debian Iso DVD](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/)
 - Support for large iso files
+- Using trap
 - UEFI support
 - Grub research
 - Message generalization
 - No direct call to **umount**
+- Checking command return values, making rollback if necessary
 - Test on several distos should be done
 - Dependency analysis necessary
 - Minimum dependency on commands
