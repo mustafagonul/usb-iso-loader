@@ -73,3 +73,8 @@ The project aims to create bootable USB loading iso files.
 - Test on several distos should be done
 - Dependency analysis necessary
 - Minimum dependency on commands
+
+## Notes
+
+- https://wiki.archlinux.org/index.php/Multiboot_USB_drive
+
